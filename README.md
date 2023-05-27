@@ -5,6 +5,8 @@
 ![Alt Text](https://github.com/jackckendrick/sticky-notes/blob/184864a5a394ef88cd854ed322c1ce4b1fae56a1/sticky%20notes.png)
 This is a note-taking application designed to cater to the needs of small business owners. The application allows users to conveniently write and save notes, helping them organize their thoughts and keep track of tasks they need to complete.
 
+
+Link to Deployed application: https://stickynotes.herokuapp.com/notes
   ## Installation
   The user must first clone the GitHub repository. Then they must upload the project to Heroku or any other cloud service platform.
   ## Usage
