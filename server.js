@@ -3,10 +3,8 @@ const path = require('path');
 const fs = require('fs');
 const uniqueIdGenerator = require('./helpers/uuid');
 
-const PORT = 3001;
-
+const PORT = process.env.PORT || 3001;
 const app = express();
-// const serverPort = process.env.PORT || 3001;
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
